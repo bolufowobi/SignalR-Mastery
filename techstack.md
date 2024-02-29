@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [bolufowobi/SignalR-Mastery](https://github.com/bolufowobi/SignalR-Mastery)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|47<br/>Tools used|02/21/24 <br/>Report generated|
+|47<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
